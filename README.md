@@ -9,7 +9,7 @@ The contents of Optimization under Uncertainty:
 2. L-shaped method (Multiple Cuts);
 3. Level Decomposition;
 4. Partition-based Approach;
-5. Monte Carlo Approach for Sample Average Approximation (SAA);
+5. Monte Carlo Approach for Sample Average Approximation (SAA); (Monte Carlo SAA.ipynb)
 
 Note: 
 
