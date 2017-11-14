@@ -15,3 +15,4 @@ Note:
 
 1. The L-shape method is the Bender's Decomposition in stochastic programing;
 2. Examples are in another pdf file (Example.pdf);
+3. This example has been proved to be complete recourse, which means no need on feasibility cuts;
