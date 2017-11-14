@@ -15,8 +15,7 @@ Note: The L-shape method is the Bender's Decomposition in stochastic programing;
 
 Example:
 Consider a stochastic linear program:
-<center>  \( min \) ()</center>
+<center>  $$min 2x_{1}+3x_{2}+E[7y_{1}]$$ </center>
 
 
-
-min 2x_{1}+3x_{2}+E[7y_{1}]
+$\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
