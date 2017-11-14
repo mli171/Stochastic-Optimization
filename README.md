@@ -5,7 +5,7 @@ All the programs are written in Optimization Programing Language "Julia".
 
 The contents of Optimization under Uncertainty:
 
-1. L-shaped method (Single Cut);
+1. L-shaped method (Single Cut); (Single-cut.ipynb)
 2. L-shaped method (Multiple Cuts); (multi-cut.ipynb)
 3. Level Decomposition;
 4. Partition-based Approach;
