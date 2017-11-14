@@ -14,4 +14,4 @@ The contents of Optimization under Uncertainty:
 Note: 
 
 1. The L-shape method is the Bender's Decomposition in stochastic programing;
-2. Example are in another pdf file;
+2. Examples are in another pdf file;
