@@ -11,11 +11,7 @@ The contents of Optimization under Uncertainty:
 4. Partition-based Approach;
 5. Monte Carlo Approach for Sample Average Approximation (SAA);
 
-Note: The L-shape method is the Bender's Decomposition in stochastic programing;
+Note: 
 
-Example:
-Consider a stochastic linear program:
-<center>  $$min 2x_{1}+3x_{2}+E[7y_{1}]$$ </center>
-
-
-$\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
+1. The L-shape method is the Bender's Decomposition in stochastic programing;
+2. Example are in another pdf file;
