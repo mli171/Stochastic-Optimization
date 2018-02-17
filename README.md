@@ -11,6 +11,7 @@ The contents of Optimization under Uncertainty:
 4. Monte Carlo Approach for Sample Average Approximation (SAA); (Monte Carlo SAA.ipynb)
 
 Another example for adding feasibility cuts;
+
 File "feasibility_cut_addition.pdf" contain the example about how to add feasibility cut;
 1. Single-cut;  (feasibility_single_cut.ipynb)
 2. Multi-cut;   (feasibility_multi_cut.ipynb)
