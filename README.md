@@ -10,14 +10,15 @@ The contents of Optimization under Uncertainty:
 3. Level Decomposition; (Level Decomposition.ipynb)
 4. Monte Carlo Approach for Sample Average Approximation (SAA); (Monte Carlo SAA.ipynb)
 
+Another example for adding feasibility cuts;
+File "feasibility_cut_addition.pdf" contain the example about how to add feasibility cut;
+1. Single-cut;  (feasibility_single_cut.ipynb)
+2. Multi-cut;   (feasibility_multi_cut.ipynb)
+
+
 Note: 
 
 1. The L-shape method is the Bender's Decomposition in stochastic programing;
 2. Examples are in another pdf file (Example.pdf);
 3. This example has been proved to be complete recourse, which means no need on feasibility cuts;
 4. In Level Decomposition.ipynb, you need to specify the sample size N by your own;
-
-One more example for adding feasibility cuts;
-File "feasibility_cut_addition.pdf" contain the example about how to add feasibility cut;
-1. Single-cut;  (feasibility_single_cut.ipynb)
-2. Multi-cut;   (feasibility_multi_cut.ipynb)
